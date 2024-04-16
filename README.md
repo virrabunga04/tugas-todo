@@ -1,2 +1,4 @@
 # tugas-todo
-Nama: Vira Vradilla WPenugasan Asinkron
+Nama: Vira Vradilla W
+NIM: 225150707111040
+Penugasan Asinkron
